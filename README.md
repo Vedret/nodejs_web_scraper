@@ -33,6 +33,10 @@ As you can see the table body has a class of ".tbody". You can right click on th
 '#customers > tbody' 
 We can select all the rows using cheerio like this: $('.#customers > tbody > tr'). 
 
+![image](https://user-images.githubusercontent.com/28749141/97431310-61778900-191a-11eb-9128-ff3360322d52.png)
+
+
+
 Create a new index.js file in the root of your project directory and populate it with the following code:
 
     async function main()
