@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_web_scraper",
+  "version": "1.0.0",
+  "description": "fetch html source code of website and get notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedret/nodejs_web_scraper.git"
+  },
+  "author": "Vedret Hrvanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedret/nodejs_web_scraper/issues"
+  },
+  "homepage": "https://github.com/Vedret/nodejs_web_scraper#readme"
+}
