@@ -23,7 +23,7 @@ Request-promise: The simplified HTTP request client 'request' with Promise suppo
 
 [Node-notifier](https://www.npmjs.com/package/node-notifier): cross platform native notifications using Node.js
 
-### Scrap a static website with Cheerio
+### Scrap a website with Cheerio
 To demonstrate how you can scrape a website using Node.js, we're going to set up a script to scrape the w3schools website for some table rows.
 
 First create new folder Config and config.js file inside it. There we will keep our HTML link, and credetials if needed.
