@@ -8,7 +8,7 @@ The script is created with purpose of notification when fee slot for system rese
 ## Prerequisities
 You will need to have Node.js and [npm](https://www.npmjs.com/get-npm) installed on your computer. This [page](https://www.npmjs.com/get-npm) contains instructions on how to install or upgrade your Node installation to the latest version.
 
-## Gettin started
+## Getting started
 Create a new  directory for this tutorial and initialize it with a package.json file by running npm init -y from the project root.
 
 Next, install the dependencies that we'll be needing too build up the web scraper:
