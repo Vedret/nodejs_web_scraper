@@ -53,7 +53,7 @@ Create a new index.js file in the root of your project directory and populate it
     });
     }
     
-Now we have to call our main() function every 5 minutes
+Next we have to call our main() function every 5 minutes
    
     const minutes = 5, the_interval=minutes*60 *100;
     setInterval(function(){
